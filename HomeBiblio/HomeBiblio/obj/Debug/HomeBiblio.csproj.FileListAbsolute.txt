@@ -1,0 +1,14 @@
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.exe.config
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.exe
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.pdb
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.csproj.AssemblyReference.cache
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.exe
+E:\УЧЕБА\Практика Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.pdb
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.exe.config
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.exe
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\bin\Debug\HomeBiblio.pdb
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.csproj.AssemblyReference.cache
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.exe
+E:\УЧЕБА\Литвинов\HomeBiblio\HomeBiblio\obj\Debug\HomeBiblio.pdb
